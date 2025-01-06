@@ -5,7 +5,7 @@
 I made this gamedeck to create a base and an idea for a game about exploring the underwater city called "Asteria". You play as Vedika and you explore the city to find cryptic clues and uncover it's greek past. The game is divided in 5 Levels or 5 floors which you have to conquer and after each level you get a piece of paper that contains hieroglyphs about the city's history. At the end you rearrange them to uncover the real story.
 
 
-The Story
+The Story goes like -
 Vedika boarded her submarine and went down to the exact location that the magnetometer reported. She was shocked to discover that her theory was, in fact, true, right in front of her stood the city in all its glory. Well, whatever glory an old, grimy, demolished, Greek city could have.
 
 She brought her submarine down to the sea bed and exited the submarine. Vedika shovelled her equipment in her backpack and swam towards what was most likely the city. She walked on the sandy shore of the city. She looked inside her backpack but one look at her equipment told her that they were of no use now, the electromagnetic waves were too much to handle and were enough to give her a headache as well.
