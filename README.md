@@ -26,3 +26,6 @@ The metal doors were the only thing in the whole place that were not rusted or e
 
 Figma Design Link - https://www.figma.com/design/Hp0ddySccmjh2azDT80G6w/Asteria?node-id=0-1&t=jt0XE5B7vAuv55u7-1
 Figma Prototype Link - https://www.figma.com/proto/Hp0ddySccmjh2azDT80G6w/Asteria?node-id=0-39&t=V6Kc15nBlw0mOBsO-1&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=0%3A39
+
+![Asteria 3D 1](https://github.com/user-attachments/assets/a6bfe4a2-0d21-47ae-b604-061ebf484498)
+
