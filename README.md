@@ -1,4 +1,7 @@
 # asteria-gamedeck
+
+![asteria logo](https://github.com/user-attachments/assets/d46ce137-5590-4b8f-94c3-e10c9c121557)
+
 I made this gamedeck to create a base and an idea for a game about exploring the underwater city called "Asteria". You play as Vedika and you explore the city to find cryptic clues and uncover it's greek past. The game is divided in 5 Levels or 5 floors which you have to conquer and after each level you get a piece of paper that contains hieroglyphs about the city's history. At the end you rearrange them to uncover the real story.
 
 
